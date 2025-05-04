@@ -1,6 +1,4 @@
 # BrainWaveClassifier-MEG-ML
-MEGInSight – A deep‑learning toolkit to decode MEG brain signals. Includes preprocessing (filtering, epoching), PCA feature reduction, and Keras-based classifiers. Benchmark suites and Jupyter examples make it easy to train, evaluate, and compare state‑of‑the‑art MEG models.
-
 
 The data consists of MEG recordings of a single subject, made during two separate measurement sessions (consecutive days). The task was to infer from one-second time windows the type of visual stimulus shown to the subject.The best submission of the 10 submissions, reached almost 70% accuracy.
 
