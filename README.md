@@ -15,3 +15,12 @@ The five class values
 3. Foolball. Clips from La Lega.
 4. Mr. Bean.
 5. Chaplin.
+
+Here’s a Notebook Overview:
+
+1. Data Loading & Exploration: Import MEG signals and inspect shapes, statistics, and sample plots.
+2. Train/Test Split: Create stratified splits to preserve class balance.
+3. PCA & Classical Models: Reduce dimensionality; grid‑search KNN and SVM classifiers.
+4. Statistical Classifier: Cross‑validated Naïve Bayes baseline with performance metrics.
+5. Neural Network: Define, train, and regularize a PyTorch model; tune hyperparameters.
+6. Results Visualization: Plot accuracy, loss curves, and compare model performances.
